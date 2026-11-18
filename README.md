@@ -1,33 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E80C1F&height=120&section=header"/>
+# Lucas Lima
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEB00a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Lucas+Lopes;I'm+30+years+old;I'm+from+Brazil;I+am+a+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+Full Stack Developer · Java, Spring Boot, Angular · Performance and AI agents in production (B2B SaaS)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaslopesllima&show_icons=true&count_private=true&hide_border=true&title_color=D13800a4&icon_color=FFEB00a4&text_color=FFFFE0&bg_color=0d1117" alt="Lucas github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopesllima&layout=compact&hide_border=true&title_color=D13800a4&text_color=FFFFE0a4&bg_color=0d1117" />
-</div>
+I build and maintain a SaaS ERP used in production by hundreds of companies at Calcme.
 
- ### Main skills:
-![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+- Migrated the backend from Java 11 / Spring Boot 2.1 to Java 25 / Spring Boot 4.1 without changing the API contract.
+- Cut response times that were blocking customers: a core screen went from 177 s to 2 s, and the inventory report from 34 min to 22 s.
+- Built AI agents with tool calling (Gemini and OpenAI), an operational chat that runs business commands, and a flow that explains invoice rejections to non-technical users, cutting support tickets on the topic by 40%.
+- Built the company's internal time-tracking system on my own (Next.js, Fastify, Prisma, PostgreSQL and Docker).
 
-  
-  ### Studying in this moment:
-![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=Laravel&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
-  
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucaslopesllima}/count.svg" /></p> 
-<br>
-</div>
+Most of my work is in private company repositories, so it only shows up in the contribution graph.
 
+**Stack:** Java · Spring Boot · Angular · TypeScript · MongoDB · PostgreSQL · Redis · Node.js · Docker · Jenkins · JUnit · Jest · LLMs and AI agents
 
-<div align="center"> 
-<a href = "mailto:cmp.1a.lucaslopesllima@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucaslopesllima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E80C1Fa4&height=120&section=footer"/>
+**Writing:** I post performance and AI case studies on [LinkedIn](https://www.linkedin.com/in/lucaslopesllima/).
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/lucaslopesllima/) · lucaslopesllima@gmail.com
